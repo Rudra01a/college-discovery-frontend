@@ -1,0 +1,8 @@
+{
+  "name": "college-discovery-workspace",
+  "private": true,
+  "workspaces": [
+    "frontend",
+    "backend"
+  ]
+}
